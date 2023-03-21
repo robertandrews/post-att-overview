@@ -1,0 +1,25 @@
+.dashicons-circle {
+    display: inline-block;
+    width: 28px;
+    height: 28px;
+    background-color: #fff;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 28px;
+    text-decoration: none;
+}
+
+.dashicons-circle i {
+    color: #0073aa;
+
+    font-size: 17px;
+    margin-top: 5px;
+}
+
+.dashicons-circle:hover {
+    background-color: #0073aa;
+}
+
+.dashicons-circle:hover i {
+    color: #fff;
+}
